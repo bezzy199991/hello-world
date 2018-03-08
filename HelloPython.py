@@ -1,3 +1,12 @@
 word = 'Hello World'
 
-print(word*10)
+print(word)
+print(word)
+print(word)
+print(word)
+print(word)
+print(word)
+print(word)
+print(word)
+print(word)
+print(word)
